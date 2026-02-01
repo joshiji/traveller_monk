@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Traveller Monk'
+theme = "hyde"
+
+[params]
+  description = "Zen through travel"
