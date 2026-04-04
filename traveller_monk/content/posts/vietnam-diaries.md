@@ -1,9 +1,12 @@
 +++
 date = '2026-04-04T21:56:12+05:30'
 title = 'Vietnam Diaries'
+[thumbnail]
+  src = "/images/vietnam_01.jpg"
+  visibility = "list"
 +++
 
-Planning a holiday trip to Vietnam from India? Got limited time to plan but looking for a comprehensive itinary? Or just want to what should you prioritise on the limited days you have got? Fret not, you are at right place. In this article, we will be covering the personal research and first hand experience covering north, central and south Vietnam - including Hanoi, Ninh Binh, Danang, Phu Quoc and Ho Chi Minh City.
+Planning a holiday trip to Vietnam from India? Got limited time to plan but looking for a comprehensive itinary? Or just want to know what should you prioritise for the limited days you have got? Fret not, you are at right place. In this article, we will be covering the personal research and first hand experience covering north, central and south Vietnam - including Hanoi, Ninh Binh, Danang, Phu Quoc and Ho Chi Minh City.
 
 <!--more-->
 
@@ -121,6 +124,9 @@ I took a direct flight from Hanoi to Danang. I stayed at **Hotel Parosands** —
 - Prices are **fixed at the boating pier** — do not buy from touts before reaching the pier, as they overcharge significantly.
 - **Price for entire boat:** VND 170,000
 - Rating: **8.5/10**
+
+{{< figure src="/images/vietnam_18.jpeg" title="Boating around 7pm after sunset" alt="Boating around 7pm after sunset" >}}
+{{< figure src="/images/vietnam_16.jpeg" title="Boating around 7pm after sunset" alt="Boating around 7pm after sunset" >}}
 
 > **Note:** Hoi An also offers **Coconut Boat Rides** (the famous round bamboo boats). These happen during the day. For best prices, head to **Boat Club Café**.
 
