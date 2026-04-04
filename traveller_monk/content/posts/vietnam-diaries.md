@@ -143,6 +143,11 @@ This deserves a full day — **do not try to squeeze it with anything else**.
 - **Golden Bridge** gets crowded by 10 AM but clears up around 4:30 PM. Plan accordingly.
 - **Exit via Marseille station** at the end of the day.
 
+{{< figure src="/images/vietnam_09.jpeg" title="Alpine Coaster" alt="Alpine Coaster" >}}
+{{< figure src="/images/vietnam_14.jpeg" title="French village" alt="French village" >}}
+{{< figure src="/images/vietnam_15.jpeg" title="Cable car" alt="Cable cart" >}}
+{{< figure src="/images/vietnam_17.jpeg" title="Inside louvre replica" alt="Inside louvre replica" >}}
+
 **Booking via Klook (Recommended):**
 | Item | Approx. Cost |
 |------|-------------|
