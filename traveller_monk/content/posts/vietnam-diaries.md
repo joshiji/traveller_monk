@@ -171,7 +171,9 @@ Best for evening experiences and beach views.
 
 - **Symphony of the Sea Show (7:30 PM)** — The most famous show on the island. Rating: **9/10**
   - There's also a second show at 8:45 PM, but the 7:30 PM show is the best.
+{{< figure src="/images/vietnam_20.jpeg" title="Symphony of the sea from the balcony" alt="Symphony of the sea from the balcony" >}}
 - **Kiss Bridge** — Iconic landmark. Views are great especially with the evening lights. Rating: **7/10**
+{{< figure src="/images/vietnam_19.jpeg" title="Kiss Bridge view from the Balcony rooms for Venice Hotel" alt="Kiss Bridge view from the Balcony rooms for Venice Hotel" >}}
 - **Sunworld Cable Car** — One of the world's longest over-sea cable cars. Spectacular views. Rating: **10/10**
 - **4 Island Tour** — Decent but not exceptional. Rating: **6/10**
 
@@ -192,7 +194,12 @@ Best for theme parks, wildlife, and entertainment.
   - Book an **electric car** and skip the first stop — get off at the **second stop (safari stop)** directly.
   - It is a **hop-on hop-off** system.
   - **Giraffe Feeding:** Only carrots are allowed. Carry them from the hotel.
+
+{{< figure src="/images/vietnam_12.jpeg" title="Vinsafari - Giraffe Feeding" alt="Vinsafari - Giraffe Feeding" >}}
+
 - **Grand World** — Evening entertainment complex with light shows, restaurants (including many Indian options), and a lively atmosphere. Best viewed from **Lake Masala Indian Restaurant** across the lake.
+
+{{< figure src="/images/vietnam_13.jpeg" title="Grand world in Phu Quoc Island" alt="Grand world in Phu Quoc Island" >}}
 
 > **Accommodation Tip for North Phu Quoc:** Book a **Vinpearl Resort** directly. Since Vinwonders and Vinsafari are Vinpearl properties, you get **flat discounts** (better than Klook), **free shuttle service** to all attractions, and **free airport pickup and drop** (inform them of your flight details at check-in).
 
