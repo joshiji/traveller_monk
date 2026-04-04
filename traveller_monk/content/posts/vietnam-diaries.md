@@ -217,6 +217,8 @@ I visited Ho Chi Minh for just 1 day before my return flight — but it was well
 
 An **aquarium-themed restaurant** — visually stunning and unlike anything else in Vietnam. Extensive non-veg menu with a limited but decent veg selection. We tried the **Veg Hotpot**, which was good. Smoothies and drinks were great too.
 
+{{< figure src="/images/vietnam_10.jpeg" title="Oasis Restaurant" alt="Oasis Restaurant" >}}
+
 #### Landmark 81
 
 Vietnam's tallest building — the country's answer to the Burj Khalifa.
@@ -226,9 +228,13 @@ Vietnam's tallest building — the country's answer to the Burj Khalifa.
 - **Only cards accepted — no cash**
 - Offers a stunning panoramic view of Ho Chi Minh City from the top floor
 
+{{< figure src="/images/vietnam_11.jpeg" title="Gardens opposite landmark 81" alt="Gardens opposite landmark 81" >}}
+{{< figure src="/images/vietnam_21.jpeg" title="Top Floor of Landmark81" alt="Top Floor of Landmark81" >}}
+{{< figure src="/images/vietnam_08.jpeg" title="Panoramic view of Ho Chi Minh from top floor of Landmark81" alt="Panoramic view of Ho Chi Minh from top floor of Landmark81" >}}
+
 ---
 
-## Chapter 3: Practical Tips
+## Practical Tips
 
 ### Connectivity
 
@@ -288,7 +294,7 @@ Vietnam's tallest building — the country's answer to the Burj Khalifa.
 
 ---
 
-## Chapter 4: Ratings and Opinions
+## Ratings and Opinions
 
 ### Hanoi
 
