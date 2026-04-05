@@ -339,4 +339,4 @@ Vietnam's tallest building — the country's answer to the Burj Khalifa.
 
 Vietnam is one of the most rewarding countries to travel as an Indian — the food options are plentiful, the visa process is easy, and the landscapes range from limestone karsts in the north to pristine islands in the south. With good planning, a 7–10 day trip can comfortably cover the highlights across all three regions.
 
-For any questions, feel free to reach out: **milind.bits.eni@gmail.com**
+For any questions, feel free to reach out at: **connect[at]travellermonk[dot]com**
